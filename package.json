@@ -1,7 +1,9 @@
 {
   "name": "itemku-telegram-notifier",
-  "version": "1.1.0",
+  "version": "1.2.0",
   "private": true,
   "description": "Vercel-ready Itemku Order Callback to Telegram notifier",
-  "engines": { "node": ">=20" }
+  "engines": {
+    "node": "24.x"
+  }
 }
